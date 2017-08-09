@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: page
+title:  "Welcome to nahir0!"
 date:   2017-08-09 03:08:48 +0000
 categories: jekyll update
 ---
