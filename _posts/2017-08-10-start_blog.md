@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Welcome to nahir0!"
 date:   2017-08-10 01:08:48 +0000
 categories: jekyll update
